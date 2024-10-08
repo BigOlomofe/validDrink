@@ -1,0 +1,5 @@
+.DS_Store
+/backend/target/
+/backend/node_modules/
+/backend/*.log
+/backend/*.tmp
